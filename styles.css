@@ -6,14 +6,14 @@ body {
     margin-bottom: 100px;
 }
 header {
-    border: solid 2px rgb(42, 122, 228);
+    border: solid 2px rgb(0, 0, 1);
     padding:20px;
 }
 header {
     border-bottom: solid 0px rgb(12, 1, 110);
     padding: 20px;
     font-size: 32px;
-    color: rgb(42, 122, 228);
+    color: rgb(225, 11, 11);
 }
 body {
     color: white;
@@ -27,6 +27,7 @@ padding-bottom:80px;
 padding-top: 80px;
 display:flex;
 justify-content:center;
+font-size: 40px;
 }
 .chamada-texto{
 margin-right: 5%;
@@ -68,7 +69,7 @@ img{height:200px;
     opacity 1.0;
 }
 .categoria h2 {
-    color: rgb(42, 122, 228);
+    color: rgb(237, 11, 11);
 }
 
 
